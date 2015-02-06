@@ -1,0 +1,3 @@
+# MTA-machine
+The MTA Machine Simulator is a Graphical User Interface (GUI) written in Python that simulates New York’s Metropolitan Transportation Authority (MTA) machines. I created the simulator using Tkinker, Python’s de-facto standard GUI (Graphical User Interface) package. The link below link to a zip folder containing .exe file of the simulator.
+The machine guides users through a series of pages in order to purchase or refill a metrocard. Once purchased, metrocards are stored on the user’s device as python pickle files (.p). This allows the user to keep their metrocard, even after the program has ended.
